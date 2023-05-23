@@ -1,0 +1,7 @@
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\bin\Debug\prKol_ind2_4_FI.exe.config
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\bin\Debug\prKol_ind2_4_FI.exe
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\bin\Debug\prKol_ind2_4_FI.pdb
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\obj\Debug\prKol_ind2_4_FI.csproj.AssemblyReference.cache
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\obj\Debug\prKol_ind2_4_FI.csproj.CoreCompileInputs.cache
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\obj\Debug\prKol_ind2_4_FI.exe
+C:\Users\305-11\source\repos\prKol_ind2_4_FI\prKol_ind2_4_FI\obj\Debug\prKol_ind2_4_FI.pdb
